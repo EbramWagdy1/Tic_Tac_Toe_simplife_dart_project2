@@ -25,3 +25,6 @@ Runs in the terminal, supports **score tracking**, **replay option**, and an int
 Check installation:  
 ```bash
 dart --version
+
+---
+
