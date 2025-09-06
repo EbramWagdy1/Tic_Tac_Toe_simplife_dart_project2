@@ -1,90 +1,13 @@
-🎮 Tic Tac Toe (Dart Console Game)
+# 🎮 Tic Tac Toe (Dart Console Game)
 
+[![Dart](https://img.shields.io/badge/Dart-2%2B-blue?logo=dart&logoColor=white)](https://dart.dev)
+[![Platform](https://img.shields.io/badge/Platform-Console-lightgrey?logo=windows-terminal)](#)
+[![Stars](https://img.shields.io/github/stars/your-username/tic-tac-toe-dart?style=social)](https://github.com/your-username/tic-tac-toe-dart/stargazers)
+[![Forks](https://img.shields.io/github/forks/your-username/tic-tac-toe-dart?style=social)](https://github.com/your-username/tic-tac-toe-dart/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/your-username/tic-tac-toe-dart?color=green)](https://github.com/your-username/tic-tac-toe-dart/commits/main)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
+A simple **two-player Tic Tac Toe** game built with Dart.  
+Runs in the terminal, supports **score tracking**, **replay option**, and an interactive **ASCII board**.  
 
-A simple two-player Tic Tac Toe game built in Dart.
-Runs in the terminal, supports score tracking, replay, and interactive board rendering.
-
-✨ Features
-
-👥 Two-player support (Player 1 vs Player 2)
-
-❌⭕ Players choose their characters (X or O)
-
-🖥️ Interactive board rendering with ASCII art
-
-✅ Input validation (no invalid or duplicate moves)
-
-🏆 Winner detection (rows, columns, diagonals)
-
-🤝 Draw detection when the board is full
-
-📊 Score tracking across multiple rounds
-
-🔄 Replay option without restarting the game
-
-🚀 Getting Started
-Prerequisites
-
-Install Dart SDK
- (v2.0 or higher)
-
-Check installation:
-
-dart --version
-
-Installation
-
-Clone this repository:
-
-git clone https://github.com/your-username/tic-tac-toe-dart.git
-cd tic-tac-toe-dart
-
-Run the Game
-dart run main.dart
-
-📂 Project Structure
-📂 tic_tac_toe
- ┣ 📜 main.dart   # Main entry point (game loop, scoring, replay)
- ┣ 📜 fun.dart    # Helper functions (printBoard, movePlayer, checkWinner)
- ┗ 📜 README.md   # Project documentation
-
-🎮 Example Gameplay
-████████╗██╗ ██████╗     ████████╗ █████╗  ██████╗     ████████╗ ██████╗ ███████╗
-╚══██╔══╝██║██╔═══██╗    ╚══██╔══╝██╔══██╗██╔═══██╗    ╚══██╔══╝██╔═══██╗██╔════╝
-   ██║   ██║██║   ██║       ██║   ███████║██║   ██║       ██║   ██║   ██║█████╗  
-   ██║   ██║██║   ██║       ██║   ██╔══██║██║   ██║       ██║   ██║   ██║██╔══╝  
-   ██║   ██║╚██████╔╝       ██║   ██║  ██║╚██████╔╝       ██║   ╚██████╔╝███████╗
-   ╚═╝   ╚═╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝ ╚═════╝        ╚═╝    ╚═════╝ ╚══════╝
-
-Please Enter your Player 1 name :
-Alice
-Please Enter your Player 2 name :
-Bob
-Hi Alice chose your character X or O :
-x
-
-       Game Start
-Alice:x                     Bob:o
-
-╔═════════╦═════════╦═════════╗
-║   1     ║    2    ║    3    ║
-╠═════════╬═════════╬═════════╣
-║   4     ║    5    ║    6    ║
-╠═════════╬═════════╬═════════╣
-║   7     ║    8    ║    9    ║
-╚═════════╩═════════╩═════════╝
-
-Alice(x) please chose position from [1-9] :
-
-🔮 Future Enhancements
-
-🤖 AI mode for single-player
-
-🎨 Colored CLI output (highlight X, O, and winners)
-
-💾 Save match history (wins, losses, draws)
-
-📜 License
-
-This project is open-source and free to use.
+---
