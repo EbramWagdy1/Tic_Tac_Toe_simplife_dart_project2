@@ -19,7 +19,7 @@ void main()
   String p2char=(Choice=="x")? "o":"x" ;
 
   //initialize Default score
-  int p1score=0 ,p2sccore=0;
+  int p1score=0 ,p2score=0;
 
   String currentPlayer = p1name;
   String currentChar = p1char;
@@ -56,7 +56,7 @@ void main()
           p1score++;
         }
         else if (winner == p2char) {
-          p2sccore++;
+          p2score++;
         }
       }
       else if (winner == "D") {
@@ -64,7 +64,7 @@ void main()
       }
 
       //print score
-      print("Score => $p1name: $p1score | $p2name: $p2sccore");
+      print("Score => $p1name: $p1score | $p2name: $p2score");
 
       //ask if you want to play again or not
       print("Do you want to play again? (y/n): ");
