@@ -3,6 +3,8 @@ import 'fun.dart';
 
 void main()
 {
+  //printBanner
+  printBanner();
 
   //Add player name
 
