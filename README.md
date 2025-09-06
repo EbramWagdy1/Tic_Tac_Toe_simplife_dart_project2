@@ -25,13 +25,17 @@ Make sure you have [Dart SDK](https://dart.dev/get-dart) installed.
 Check installation:
 ```bash
 dart --version
-
-###2️⃣ Clone this repo
+```
+2️⃣ Clone this repo
+```bash
 git clone https://github.com/your-username/tic_tac_toe_dart.git
 cd tic_tac_toe_dart
+```
 
-###3️⃣ Run the game
+3️⃣ Run the game
+```bash
 dart run main.dart
+```
 
 
 
