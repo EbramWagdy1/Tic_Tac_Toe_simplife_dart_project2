@@ -17,14 +17,19 @@ Runs in the terminal, supports **score tracking**, **replay option**, and an int
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
+1️⃣ Install Dart
 
-### 🔧 Prerequisites
-- Install [Dart SDK](https://dart.dev/get-dart) (**v2.0 or higher**)  
+Make sure you have Dart SDK
+ installed.
 
-Check installation:  
-```bash
-dart --version
+2️⃣ Clone this repo
+git clone https://github.com/your-username/tic_tac_toe_dart.git
+cd tic_tac_toe_dart
+
+3️⃣ Run the game
+dart run main.dart
 
 ---
+
 
