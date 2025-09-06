@@ -33,13 +33,13 @@ cd tic_tac_toe_dart
 
 3️⃣ Run the game
 ```bash
-dart run main.dart
+dart run game.dart
 ```
 ---
 ## 📂 Project Structure
 
 📂 tic_tac_toe_dart  
- ┣ 📜 main.dart   # Main game loop, player setup, scoring, replay  
+ ┣ 📜 game.dart   # Main game loop, player setup, scoring, replay  
  ┣ 📜 fun.dart    # Helper functions (printBoard, movePlayer, checkWinner)  
  ┗ 📜 README.md   # Project documentation
 
