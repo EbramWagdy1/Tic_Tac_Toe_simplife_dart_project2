@@ -40,8 +40,8 @@ dart run game.dart
 
 📂 tic_tac_toe_dart  
  ┣ 📜 game.dart   # Main game loop, player setup, scoring, replay  
- ┣ 📜 fun.dart    # Helper functions (printBoard, movePlayer, checkWinner)  
- ┗ 📜 README.md   # Project documentation
+ ┗ 📜 fun.dart    # Helper functions (printBoard, movePlayer, checkWinner)  
+
 
  ---
 
